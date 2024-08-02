@@ -103,7 +103,7 @@ function mostrarMenu() {
         "5. Eliminar Producto\n" +
         "6. Ver Carrito\n" +
         "7. Finalizar compra\n" +
-        "Ingresa una opción:"
+        "Ingresa una opción: "
     );
 }
 
