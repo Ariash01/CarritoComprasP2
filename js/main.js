@@ -154,7 +154,6 @@ function carritoDeCompras() {
         opcion = mostrarMenu();
         manejarOpcion(opcion);
     } while (opcion !== '7');
-
     volverAComprar();
 }
 
